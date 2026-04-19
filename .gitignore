@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Jupyter (if used)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (optional - keep if needed)
+*.pkl
+
+# Data files (optional - remove if you want to upload dataset)
+# *.csv
+
+# Streamlit config
+.streamlit/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
